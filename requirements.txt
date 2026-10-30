@@ -1,4 +1,6 @@
-torch
+Flask
+requests
 influxdb-client
 python-dotenv
+torch
 paho-mqtt

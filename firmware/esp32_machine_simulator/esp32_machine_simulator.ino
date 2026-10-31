@@ -5,19 +5,19 @@
 // ==================================================
 // 1. WI-FI CONFIGURATION
 // ==================================================
-const char* ssid = "YOUR_WIFI_SSID";
-const char* wifi_password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "OPPO K12x 5G";
+const char* wifi_password = "u2g4ricn";
 
 // ==================================================
 // 2. EMQX CLOUD MQTT CONFIGURATION
 // ==================================================
 const char* mqtt_server =
-    "YOUR_EMQX_BROKER_HOST";
+    "wdd94841.ala.asia-southeast1.emqxsl.com";
 
 const int mqtt_port = 8883;
 
-const char* mqtt_user = "YOUR_MQTT_USERNAME";
-const char* mqtt_password = "YOUR_MQTT_PASSWORD";
+const char* mqtt_user = "esp32_machine1";
+const char* mqtt_password = "esp32_machine1";
 
 // ==================================================
 // 3. MQTT CLIENT
